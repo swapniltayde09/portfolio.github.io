@@ -14,7 +14,7 @@
 ## Projects
 ### 🎯 SocialScroll: Student Social Media Addiction Analysis
 - Description:Analyzed 700+ students across 50+ countries. Discovered 5hr/day social media threshold → 60% higher addiction risk. Key insights: 82% academic harm, 2hr less sleep, Instagram dominance, country reporting bias. Built with Pandas/Seaborn.
-- Link: https://github.com/swapniltayde09/SocialScroll-Student-Addiction-EDA
+- Link: <a href="https://github.com/swapniltayde09/SocialScroll-Student-Addiction-EDA" target="_blank">GitHub repo</a>
 
 ### Project 2
 - Description:
