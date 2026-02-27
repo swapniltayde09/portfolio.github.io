@@ -1,4 +1,4 @@
-# Portfolio.Github.io
+# Data Analytics Portfolio
 
 ## Projects
 ### Project 1
