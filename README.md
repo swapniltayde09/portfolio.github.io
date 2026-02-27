@@ -1,7 +1,7 @@
 # Data Analytics Portfolio
 
 ## 💼 Skills
-[![Excel](https://img.shields.io/badge/MS_Excel-0544D3?style=for-the-badge&logo=ms-excel&logoColor=white)](https://microsoft.com)
+[![Microsoft Excel](https://img.shields.io/badge/MS_Excel-0544D3?style=for-the-badge&logo=ms-excel&logoColor=white)](https://microsoft.com)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://learn.microsoft.com)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
