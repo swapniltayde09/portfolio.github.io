@@ -1,4 +1,4 @@
-# portfolio.github.io
+# Portfolio.Github.io
 
 ## Projects
 ### Project 1
